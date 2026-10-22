@@ -1,0 +1,21 @@
+{
+  "name": "アプリエ for AkaDako",
+  "short_name": "アプリエ AkaDako",
+  "description": "タコラッチ・タコラッチ・ミニ用Webアプリの構想・作成・修正・理解を支援するツール",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7eee7",
+  "theme_color": "#f7eee7",
+  "icons": [
+    {
+      "src": "akadako.png",
+      "sizes": "any",
+      "type": "image/png"
+    },
+    {
+      "src": "akadako.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
