@@ -4,6 +4,8 @@
 
 公開ページ：[アプリエ for AkaDako](https://gijyutu.com/g-soft/akadako_ai/)
 
+ソースコード：[GitHub（gijyutucom-byte/akadako_ai）](https://github.com/gijyutucom-byte/akadako_ai/)
+
 「アプリエ」（AI App Maker）を AkaDako 向けに拡張したもので、元のアプリエと同じ 3 つの機能（① アプリを作る、② アプリを動かす、③ アプリを理解する）に、AkaDako 用の機能を加えています。
 
 ## 主な機能
